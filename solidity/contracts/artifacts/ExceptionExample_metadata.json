@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_numerator",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_denominator",
+						"type": "uint256"
+					}
+				],
+				"name": "divide",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exception.sol": "ExceptionExample"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exception.sol": {
+			"keccak256": "0x86ffa34010cbddc8acd716d5eaa5bf22ec60ac2cd45bd9797545765340b60741",
+			"license": "GPL 3.0",
+			"urls": [
+				"bzz-raw://ab4e4780405bbfe52a7437348d720ebc5fb2b833123c211059c615b685fb0446",
+				"dweb:/ipfs/QmdNuQEcQcJiDfzLEvFXNSFdPk4sbW4SpFCE5wpHRjAP7d"
+			]
+		}
+	},
+	"version": 1
+}

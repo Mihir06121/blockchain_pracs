@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "giveBirth",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "makeSound",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MultilevelInteitance.sol": "Dog"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MultilevelInteitance.sol": {
+			"keccak256": "0x26f98e356fd793e9ba118712332524118dcdc81ad809f291b461f4a7bd3ad899",
+			"license": "GPL 3.0",
+			"urls": [
+				"bzz-raw://f440a0fcef6dcaaf2da50e6401eede6000193e2461b1d6c4a1d28d3cf5510a3a",
+				"dweb:/ipfs/QmdQo7SLiZKHsoFqGPv5VGXZGva61HTnSceHviZboFQLoo"
+			]
+		}
+	},
+	"version": 1
+}
